@@ -1,3 +1,6 @@
 # BMFunctional-XCFramework
 
-A description of this package.
+BMFunctional
+
+Version: 0.1.2
+Source: https://github.com/betterme-dev/ios-functional

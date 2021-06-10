@@ -17,8 +17,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "BMFunctional",
-            url: "https://github.com/andreybog/BMFunctional-XCFramework/releases/download/0.1.2/BMFunctional.xcframework.zip",
-            checksum: "990859ea936aab108cfb997096ee778d299b66f4f0c5f19a3f388d251d7e5ee9"
+            url: "https://github.com/andreybog/BMFunctional-XCFramework/releases/download/0.1.3/BMFunctional.xcframework.zip",
+            checksum: "26e51c8243052a02877a6c4bef3891531b841a9c98be59e9be8f9ba4af400da5"
         ),
     ]
 )
